@@ -1,0 +1,23 @@
+{
+  "name": "extension_cover_platzi",
+  "version": "1.0.0",
+  "description": "Extensión para extraer el icono y cover de un curso en Platzi para organizar la toma de apuntes en Notion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JuanesGalvis/extension_platzi_cover.git"
+  },
+  "keywords": [
+    "Chrome",
+    "JavaScript"
+  ],
+  "author": "JuanesGalvis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuanesGalvis/extension_platzi_cover/issues"
+  },
+  "homepage": "https://github.com/JuanesGalvis/extension_platzi_cover#readme"
+}
