@@ -10,7 +10,7 @@
 5. Listo! solo debes ir a algun curso y dar click a la extensión 💚
 
 ## 🤔 Funcionamiento / Explicación
-1. Ingresar al link del curso (por ejemplo: https://platzi.com/cursos/frontend-developer/)
+1. Ingresar al link del curso que puede ser en las clases ( cursos/frontend-developer/ ) o en la landing del curso (clases/frontend-developer/)
 2. Click en el icono de la extensión
 3. En la **consola** encontrarás la URL para el icono y el cover del curso 👌🏻
     ![Ejemplo de extración de las imágenes del curso de Frontend Developer](https://pbs.twimg.com/media/FAWUO6iWQAEEJJg?format=jpg&name=large)
